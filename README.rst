@@ -25,6 +25,8 @@ Devs
 ====
 * `Todo Lodo`_ 
 * `Engineer15`_
+* `David Besonen`_
+* `Jimmy Erickson`_
 
 .. _Todo Lodo: https://todolodo.xyz
 .. _Engineer15: https://github.com/Engineer152
